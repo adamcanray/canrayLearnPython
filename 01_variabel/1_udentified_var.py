@@ -16,7 +16,7 @@ adam = 50
 _adam = "aku variabel _adam"
 adam_canray = "aku variabel adam_canray"
 # selalu perhatikan huruf besar dan kecil, karena nama variabel sangat sensitif
-# variabel adam itu beda dengan Adam
+# variabel adam itu beda dengan Adam, karena huruf "a" pada awal var Adam adalah "A" (huruf besar)
 
 # benar: tidak error
 print(Adam)
