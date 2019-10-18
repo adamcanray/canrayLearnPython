@@ -5,7 +5,7 @@ a = b = 2
 print(a)  # output: 2
 print(b)  # output: 2
 # teknik penulisan biasa
-name = "Adam Canray"
+name = "Adam Canrayneldy"
 # print var name
 print(name)  # output: Adam Canray
 
