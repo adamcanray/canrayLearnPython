@@ -9,4 +9,4 @@ name = "Adam Canrayneldy"
 # print var name
 print(name)  # output: Adam Canray
 
-# inilah cara kita mendefinisikan sebuah variabel
+# inilah cara kita mendefinisikan sebuah variabel di dalam python
