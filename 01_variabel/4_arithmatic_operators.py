@@ -30,16 +30,20 @@ kurang = a - b
 print("a - b hasilnya = " + str(kurang))
 # -- 3. perkalian(*)
 kali = a * b
-print("a x b hasilnya = " + str(kali))
+print("a * b hasilnya = " + str(kali))
 # -- 4. pembagian(/)
 bagi = a / b
-print("a : b hasilnya = " + str(int(bagi)))
+print("a / b hasilnya = " + str(bagi) + " -- hasilnya float(dengan dot/titik)")
 # -- 5. modulus/sisa bagi(%)
 modulus = a % b
-print("a : b sisa baginya adalah = " + str(modulus))
+print("a / b sisa baginya adalah = " + str(modulus))
 # -- 6. perpangkatan(**)
 pangkat = a ** b
 print("a pangkat b hasilnya = " + str(pangkat))
+# -- 7. Floor Divide(//)
+floorDivide = a // b
+print("a // b hasilnya = " + str(floorDivide) +
+      " -- hasilnya integer(bilangan nya bulat)")
 # -------------------------------------- end.
 
 # note: semua hasil yang di print adalah konversi dari integer ke string.
