@@ -27,3 +27,5 @@ array = ['adam', 1, "maulie", 2.4]
 # keluarkan tipe dari variabel array
 print(type(array))
 # output nya <class 'list'> --- karena dalam python array == list
+
+# ini lah tipe data yang ada di dalam python
