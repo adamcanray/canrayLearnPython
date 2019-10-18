@@ -1,3 +1,8 @@
+# pengenalan
+# 1. print ke console
+# 2. penjelasan comment dala python
+
+
 # di python kita menuliskan perintah print() untuk menampilkan output
 print("hello my name is adam")
 
