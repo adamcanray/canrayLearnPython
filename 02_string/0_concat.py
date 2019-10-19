@@ -1,4 +1,4 @@
-# concat adalah sebuah teknik dimana kita menggabungkan dua buah string atau lebih menggunakan (+)
+# concat adalah sebuah teknik dimana kita menggabungkan dua buah string atau lebih menggunakan(+)
 
 # implementasi 
 # kita memiliki variabel berikut
