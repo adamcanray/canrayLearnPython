@@ -3,3 +3,13 @@
 # contoh:
 string = "hay saya adam\n"  # back-slash + n(\n) untuk break.
 print(string * 10)
+# output: hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
+# ------- hay saya adam
