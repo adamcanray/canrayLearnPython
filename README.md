@@ -21,3 +21,4 @@ seri belajar python.
   * **4_in_operators.py** -- operator **in** pada Python.
   * **5_len_function.py** -- penggunaan Build-in Function **len()**.
   * **6_char_escaping.py** -- teknik menghindari tanda kutip tunggal dan ganda(agar tidak escape/melarikan diri) pada sebuah String.
+  * **7_string_method.py** -- method-method untuk memanipulasi nilai string.
