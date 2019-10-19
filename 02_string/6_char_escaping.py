@@ -11,7 +11,7 @@
 # implemenstasi:
 string1 = '"sweat" is an ice cream.'
 string2 = 'don\'t worry about \'me\''
-string3 = "don't worry about 'me'"~
+string3 = "don't worry about 'me'"
 string4 ="The name of this ice-cream is \"Sweet'n'Tasty\""
 print(string1)
 print(string2)
