@@ -3,9 +3,9 @@ seri belajar python.
 <br/>
 
 ### Panduan:
-1. 00_introduction/
+* 00_introduction/
   * **0_introduction.py** -- cara menampilkan ke console dan membuat komentar dalam python.
-2. 01_variabel/
+* 01_variabel/
   * **0_var_definition.py** -- cara mendefinisikan variabel.
   * **1_udentified_var.py** -- pendefinisian variabel yang BENAR.
   * **2_var_type.py** -- macam-macam tipe data dalam Python.
@@ -13,7 +13,7 @@ seri belajar python.
   * **4_arithmatic_operator.py** -- operator aritmatika dalam Python.
   * **5_assigment.py** -- pengenalan assignment operators pada Python.
   * **6_boolean_operators.py** -- operator pada Python yang menghasilkan nilai boolean.
-3. 02_string/
+* 02_string/
   * **0_concat.py** -- concat dalam Python.
   * **1_string_multiplication.py** -- perkalian pada sebuah nilai String.
   * **2_string_indexing.py** -- peng-index-an dalam String di Python.
