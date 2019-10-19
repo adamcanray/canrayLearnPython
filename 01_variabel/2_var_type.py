@@ -1,4 +1,5 @@
 # dalam python ada dua buah type untuk number/nomor: integer dan float
+# sebenarnya ada lagi tipe yang namanya complex(tidak akan dijelaskan disini, silahkan pelajari sendiri)
 # perbedaan yang mencolok dari keduanya adalah:
 # float itu angka decimal yang mempunya dot/titik(.) contoh: 2.5
 # sedangkan integer itu hanya bilangan decimal yang bulat(tanpa titik, contoh: 1,25,100, dll)
