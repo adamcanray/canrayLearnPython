@@ -13,11 +13,15 @@
 
 # ----- start conding
 string = "hallo saya Muhammad Adam Canrayneldy"
-# saya ingin mengambil character 'h' pada kata 'hallo' diawal string lalu menyimpannya ke variabel
+# saya ingin mengambil character 'A' pada kata 'Adam' diawal string lalu menyimpannya ke variabel
 # karena index selalu dimulai dari index-0, maka saya bisa seperti ini:
-get_char = string[0]
+# menggunakan index yang Positive
+get_char_p = string[20]
+# menggunakan index yang Negative
+get_char_n = string[-16]
 # saya akan tampilkan hasil nya ke console
-print(get_char)
+print(get_char_p) # output: A
+print(get_char_n) # output: A
 # ----- end.
 
 # note: silahkan teman-teman coba untuk menganti index-nya, dan perhatikan perubahannya
