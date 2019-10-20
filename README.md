@@ -24,6 +24,7 @@ Python yang saya gunakan versi 3.7.0
   * **7_string_method.py** -- method-method untuk memanipulasi nilai string.
   * **8_string_formatting.py** -- formatting dalam string di Python.
 * 03_data_structures/
-  * **0_lists_introduction.py** -- pengenalan list dalam Python.
-  * **1_list_operations.py** -- operasi sebuah list dalam Python.
-  * **2_tuples.py** -- mengenal tuples dalam Python.
+  * **0_lists_introduction.py** -- pengenalan list di dalam Python.
+  * **1_list_operations.py** -- operasi sebuah list di dalam Python.
+  * **2_tuples.py** -- mengenal tuples di dalam Python.
+  * **3_dictionary.py** -- mengenal dictionary di dalam Python.
