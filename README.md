@@ -25,3 +25,4 @@ Python yang saya gunakan versi 3.7.0
   * **8_string_formatting.py** -- formatting dalam string di Python.
 * 03_data_structures/
   * **0_lists_introduction.py** -- pengenalan list dalam Python.
+  * **1_list_operations.py** -- operasi sebuah list dalam Python.
