@@ -26,3 +26,4 @@ Python yang saya gunakan versi 3.7.0
 * 03_data_structures/
   * **0_lists_introduction.py** -- pengenalan list dalam Python.
   * **1_list_operations.py** -- operasi sebuah list dalam Python.
+  * **2_tuples.py** -- mengenal tuples dalam Python.
