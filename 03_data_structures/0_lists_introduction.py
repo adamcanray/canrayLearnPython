@@ -11,12 +11,18 @@
 # -- * dan dapat diiris/slice seperti string.
 # -- * list ada yang satu dimensi saja dan multi dimensi.
 # -- * cara penulisan list:
-# ------ * kotak = [index-0, index-1, index-2]
+# ------------------ * satu dimensi:
+# ------------------ * kotak = [index-0, index-1, index-2]
+# ------------------ * dua dimensi:
+# ------------------ * kotak = [index-0, [index-0, index-1]]
 # -- * cara pengaksesan kotak:
-# ------ * print(kotak)
-# ------ * print(kotak[1])
-# ------ * print(kotak[0:2])
-# ------ * print(kotak[:])
+# ------ * satu dimensi:
+# ----------- * print(kotak)
+# ----------- * print(kotak[1])
+# ----------- * print(kotak[0:2])
+# ----------- * print(kotak[:])
+# ------ * dua dimensi:
+# ----------- * print(kotak[0][1]) -- artinya kita ingin menampilkan item-list dari list index ke-0 dan item index ke-1
 # ----- end.
 
 # ----- start coding
