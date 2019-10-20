@@ -53,4 +53,4 @@ print(buah)
 # ----- end.
 
 # note: ada banyak sekali teknik untuk memanipulasi sebuah list di dalam Python,
-# ----- silahkan teman-teman eksplor sendiri.
+# ----- silahkan teman-teman cari tahu sendiri.
