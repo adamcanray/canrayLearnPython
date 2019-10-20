@@ -1,7 +1,7 @@
 # Learn Python
 seri belajar python.
 <br/>
-
+Python yang saya gunakan versi 3.7.0
 ### Panduan:
 * 00_introduction/
   * **0_introduction.py** -- cara menampilkan ke console dan membuat komentar dalam python.
@@ -23,3 +23,5 @@ seri belajar python.
   * **6_char_escaping.py** -- teknik menghindari tanda kutip tunggal dan ganda(agar tidak escape/melarikan diri) pada sebuah String.
   * **7_string_method.py** -- method-method untuk memanipulasi nilai string.
   * **8_string_formatting.py** -- formatting dalam string di Python.
+* 03_data_structures/
+  * **0_lists_introduction.py** -- pengenalan list dalam Python.
