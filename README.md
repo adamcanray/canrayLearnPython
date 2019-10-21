@@ -28,4 +28,6 @@ Python yang saya gunakan versi 3.7.0
   * **1_list_operations.py** -- operasi sebuah list di dalam Python.
   * **2_tuples.py** -- mengenal tuples di dalam Python.
   * **3_dictionary.py** -- mengenal dictionary di dalam Python.
-  * **4_dictionary.py** -- penerapan keyword/operator **in** pada list dan dictionary.
+  * **4_in_keyword.py** -- penerapan keyword/operator **in** pada list dan dictionary.
+* 04_condition_expressions/
+  * **0_boolean_operators.py** -- boolean operators dalam Python.
