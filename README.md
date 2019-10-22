@@ -36,3 +36,4 @@ Python yang saya gunakan versi 3.7.0
   * **0_for_loop.py** -- perulangan menggunakan **for** dalam Python.
   * **1_while_loop.py** -- perulangan menggunakan **while** dalam Python.
   * **2_break_keyword.py** -- keluar dari perulangan menggunakan keyword **braek**.
+  * **3_continue_keyword.py** -- menggunakan keyword **continue** didalam perulangan.
