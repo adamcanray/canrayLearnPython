@@ -42,3 +42,8 @@ Python yang saya gunakan versi 3.7.0
   * **1_parameters_and_arguments.py** -- parameter dan argument pada function di dalam Python.
   * **2_return_keyword.py** -- penggunaan return keyword pada function di dalam Python.
   * **3_default_parameter.py** -- penggunaan nilai default pada parameter di dalam function.
+* 07_classes_and_object/
+  *  **0_class_definition.py** -- pendefinisian sebuah class dalam Python.
+  *  **1_access_variabel.py** -- mengakses sebuah variabel yang berada di dalam sebuah class.
+  *  **2_self_parameter.py** -- parameter self yang sangat sering bahkan wajib digunakan ketika kita bekerja dengan class di dalam Python.
+  *  **3_init_method.py** -- method __init__() dalam sebuah class di Python.
