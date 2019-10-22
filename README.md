@@ -41,3 +41,4 @@ Python yang saya gunakan versi 3.7.0
   * **0_definition.py** -- pendefinisian sebuah function dalam Python.
   * **1_parameters_and_arguments.py** -- parameter dan argument pada function di dalam Python.
   * **2_return_keyword.py** -- penggunaan return keyword pada function di dalam Python.
+  * **3_default_parameter.py** -- penggunaan nilai default pada parameter di dalam function.
