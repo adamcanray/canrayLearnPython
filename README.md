@@ -40,3 +40,4 @@ Python yang saya gunakan versi 3.7.0
 * 06_functions/
   * **0_definition.py** -- pendefinisian sebuah function dalam Python.
   * **1_parameters_and_arguments.py** -- parameter dan argument pada function di dalam Python.
+  * **2_return_keyword.py** -- penggunaan return keyword pada function di dalam Python.
