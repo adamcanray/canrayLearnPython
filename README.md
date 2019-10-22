@@ -31,3 +31,4 @@ Python yang saya gunakan versi 3.7.0
   * **4_in_keyword.py** -- penerapan keyword/operator **in** pada list dan dictionary.
 * 04_condition_expressions/
   * **0_boolean_operators.py** -- boolean operators dalam Python.
+  * **1_if_elif_else_statment.py** -- pengkondisian menggunakan if, elif dan else dalam Python.
