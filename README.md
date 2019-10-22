@@ -33,5 +33,6 @@ Python yang saya gunakan versi 3.7.0
   * **0_boolean_operators.py** -- boolean operators dalam Python.
   * **1_if_elif_else_statment.py** -- pengkondisian menggunakan if, elif dan else dalam Python.
 * 05_loops/
-  * **0_for_loop.py** -- perulangan menggunakan **for** dalalm Python.
-  * **1_while_loop.py** -- perulangan menggunakan **while** dalalm Python.
+  * **0_for_loop.py** -- perulangan menggunakan **for** dalam Python.
+  * **1_while_loop.py** -- perulangan menggunakan **while** dalam Python.
+  * **2_break_keyword.py** -- keluar dari perulangan menggunakan keyword **braek**.
