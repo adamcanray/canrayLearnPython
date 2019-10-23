@@ -47,3 +47,7 @@ Python yang saya gunakan versi 3.7.0
   *  **1_access_variabel.py** -- mengakses sebuah variabel yang berada di dalam sebuah class.
   *  **2_self_parameter.py** -- parameter self yang sangat sering bahkan wajib digunakan ketika kita bekerja dengan class di dalam Python.
   *  **3_init_method.py** -- method __init__() dalam sebuah class di Python.
+* 08_module_and_packages/
+  * **0_import_module** -- import module pada pada Python.
+  * **1_builtin_modules** -- import built-in module pada pada Python.
+  * **2_from_import** -- import module dengan menambahkan **from** keyword pada pada Python.
