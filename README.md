@@ -51,3 +51,6 @@ Python yang saya gunakan versi 3.7.0
   * **0_import_module** -- import module pada pada Python.
   * **1_builtin_modules** -- import built-in module pada pada Python.
   * **2_from_import** -- import module dengan menambahkan **from** keyword pada pada Python.
+* 09_file_input_output/
+  * **0_read_file** -- read sebuah file menggunakan Python.
+  * **1_write_to_file** -- menulis sebuah nilai ke dalam sebuah file menggunakan Python.
